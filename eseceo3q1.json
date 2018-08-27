@@ -1,1 +1,1 @@
-{"iaps":[],"sanbox":1,"adsOpen":[1,1,1],"proIaps":["com.yogaltd.flash.vmpro.1","com.yogaltd.flash.vmpro.2","com.yogaltd.flash.vmpro.3","com.yogaltd.flash.vmpro.4"],"domain":"https://vpnexpress.app/","port":"443"}
+{"iaps":["com.yogaltd.flash.traffic.1"],"dailyCheckIn":"250~300 MB","feelLucky":"30~50MB","sanbox":1,"adsOpen":[1,1,1],"proIaps":["com.yogaltd.flash.vmpro.1","com.yogaltd.flash.vmpro.2","com.yogaltd.flash.vmpro.3","com.yogaltd.flash.vmpro.4"],"domain":"https://vpnexpress.app/","port":"443"}
